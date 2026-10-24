@@ -1,0 +1,2434 @@
+{
+  "publication_date": "2026-10-25",
+  "entries": [
+    {
+      "source": "quant/README.md",
+      "published": "quant/README.md",
+      "treatment": "source"
+    },
+    {
+      "source": "quant/screeners/binance_usdm_15m_trend_screener.py",
+      "published": "quant/screeners/binance_usdm_15m_trend_screener.py",
+      "treatment": "source"
+    },
+    {
+      "source": "quant/services/live_execution.py",
+      "published": "quant/services/live_execution.py",
+      "treatment": "source"
+    },
+    {
+      "source": "quant/services/operation_journal.py",
+      "published": "quant/services/operation_journal.py",
+      "treatment": "source"
+    },
+    {
+      "source": "quant/services/paper_signal_service.py",
+      "published": "quant/services/paper_signal_service.py",
+      "treatment": "source"
+    },
+    {
+      "source": "quant/services/protection_manager.py",
+      "published": "quant/services/protection_manager.py",
+      "treatment": "source"
+    },
+    {
+      "source": "quant/services/risk_model.py",
+      "published": "quant/services/risk_model.py",
+      "treatment": "source"
+    },
+    {
+      "source": "scripts/binance_usdm_monthly_report.py",
+      "published": "scripts/binance_usdm_monthly_report.py",
+      "treatment": "source"
+    },
+    {
+      "source": "scripts/build_volume_price_profile.py",
+      "published": "scripts/build_volume_price_profile.py",
+      "treatment": "source"
+    },
+    {
+      "source": "scripts/hourly_quant_review.py",
+      "published": "scripts/hourly_quant_review.py",
+      "treatment": "source"
+    },
+    {
+      "source": "scripts/restart_paper_signal_service.py",
+      "published": "scripts/restart_paper_signal_service.py",
+      "treatment": "source"
+    },
+    {
+      "source": "scripts/review_binance_usdm_trades.py",
+      "published": "scripts/review_binance_usdm_trades.py",
+      "treatment": "source"
+    },
+    {
+      "source": "scripts/unavailable_request_ip_report.py",
+      "published": "scripts/unavailable_request_ip_report.py",
+      "treatment": "source"
+    },
+    {
+      "source": "tests/test_hourly_quant_review.py",
+      "published": "tests/test_hourly_quant_review.py",
+      "treatment": "source"
+    },
+    {
+      "source": "tests/test_live_execution.py",
+      "published": "tests/test_live_execution.py",
+      "treatment": "source"
+    },
+    {
+      "source": "tests/test_operation_journal.py",
+      "published": "tests/test_operation_journal.py",
+      "treatment": "source"
+    },
+    {
+      "source": "tests/test_paper_signal_service.py",
+      "published": "tests/test_paper_signal_service.py",
+      "treatment": "source"
+    },
+    {
+      "source": "tests/test_protection_manager.py",
+      "published": "tests/test_protection_manager.py",
+      "treatment": "source"
+    },
+    {
+      "source": "tests/test_risk_model.py",
+      "published": "tests/test_risk_model.py",
+      "treatment": "source"
+    },
+    {
+      "source": "tests/test_volume_price_profile.py",
+      "published": "tests/test_volume_price_profile.py",
+      "treatment": "source"
+    },
+    {
+      "source": "docs/playbooks/weekly-learning-loop.md",
+      "published": "docs/playbooks/weekly-learning-loop.md",
+      "treatment": "source"
+    },
+    {
+      "source": "docs/postmortems/TEMPLATE.md",
+      "published": "docs/postmortems/TEMPLATE.md",
+      "treatment": "source"
+    },
+    {
+      "source": "docs/postmortems/allo-usdt-2026-06-30.md",
+      "published": "docs/postmortems/allo-usdt-2026-06-30.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "docs/postmortems/binance-usdm-24h-review.md",
+      "published": "docs/postmortems/binance-usdm-24h-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "docs/postmortems/binance-usdm-30d-review.md",
+      "published": "docs/postmortems/binance-usdm-30d-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "docs/postmortems/binance-usdm-current-review.md",
+      "published": "docs/postmortems/binance-usdm-current-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "docs/postmortems/binance-usdm-current-trade-review-summary.md",
+      "published": "docs/postmortems/binance-usdm-current-trade-review-summary.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "docs/postmortems/binance-usdm-trade-review-summary.md",
+      "published": "docs/postmortems/binance-usdm-trade-review-summary.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "docs/principles/trading-lessons.md",
+      "published": "docs/principles/trading-lessons.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "ops/checklists/pre-trade.md",
+      "published": "ops/checklists/pre-trade.md",
+      "treatment": "source"
+    },
+    {
+      "source": "ops/runbooks/paper-signal-service.md",
+      "published": "ops/runbooks/paper-signal-service.md",
+      "treatment": "source"
+    },
+    {
+      "source": "ops/runbooks/run-screener.md",
+      "published": "ops/runbooks/run-screener.md",
+      "treatment": "source"
+    },
+    {
+      "source": "research/coins/TEMPLATE.md",
+      "published": "research/coins/TEMPLATE.md",
+      "treatment": "source"
+    },
+    {
+      "source": "config/.env.example",
+      "published": "config/.env.example",
+      "treatment": "source"
+    },
+    {
+      "source": "config/paper-signal-service.example.json",
+      "published": "config/paper-signal-service.example.json",
+      "treatment": "portable-research-defaults"
+    },
+    {
+      "source": "reports/screeners/2026-06-30-0152-binance-usdm-15m-trend.md",
+      "published": "records/reports/screeners/2026-06-30-0152-binance-usdm-15m-trend.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/screeners/2026-06-30-0156-binance-usdm-15m-trend.md",
+      "published": "records/reports/screeners/2026-06-30-0156-binance-usdm-15m-trend.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/screeners/2026-06-30-0159-binance-usdm-15m-trend.md",
+      "published": "records/reports/screeners/2026-06-30-0159-binance-usdm-15m-trend.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/screeners/2026-06-30-0253-binance-usdm-15m-trend.md",
+      "published": "records/reports/screeners/2026-06-30-0253-binance-usdm-15m-trend.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/screeners/2026-06-30-0254-binance-usdm-15m-trend.md",
+      "published": "records/reports/screeners/2026-06-30-0254-binance-usdm-15m-trend.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/screeners/2026-06-30-0304-binance-usdm-15m-trend.md",
+      "published": "records/reports/screeners/2026-06-30-0304-binance-usdm-15m-trend.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/screeners/2026-06-30-0317-binance-usdm-15m-trend.md",
+      "published": "records/reports/screeners/2026-06-30-0317-binance-usdm-15m-trend.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/screeners/2026-06-30-0318-binance-usdm-15m-trend.md",
+      "published": "records/reports/screeners/2026-06-30-0318-binance-usdm-15m-trend.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/screeners/2026-07-03-0238-binance-usdm-15m-trend.md",
+      "published": "records/reports/screeners/2026-07-03-0238-binance-usdm-15m-trend.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/screeners/2026-07-03-0357-binance-usdm-15m-trend.md",
+      "published": "records/reports/screeners/2026-07-03-0357-binance-usdm-15m-trend.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/screeners/2026-07-03-0358-binance-usdm-15m-trend.md",
+      "published": "records/reports/screeners/2026-07-03-0358-binance-usdm-15m-trend.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/screeners/2026-07-03-0414-binance-usdm-15m-trend.md",
+      "published": "records/reports/screeners/2026-07-03-0414-binance-usdm-15m-trend.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/screeners/2026-07-04-1925-binance-usdm-15m-trend.md",
+      "published": "records/reports/screeners/2026-07-04-1925-binance-usdm-15m-trend.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-06-30-0316-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-06-30-0316-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-06-30-0417-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-06-30-0417-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-06-30-0518-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-06-30-0518-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-06-30-0519-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-06-30-0519-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-06-30-0718-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-06-30-0718-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-06-30-0820-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-06-30-0820-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-06-30-0920-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-06-30-0920-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-06-30-1021-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-06-30-1021-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-06-30-1022-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-06-30-1022-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-06-30-1121-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-06-30-1121-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-06-30-1222-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-06-30-1222-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-06-30-1223-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-06-30-1223-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-06-30-1425-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-06-30-1425-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-06-30-1627-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-06-30-1627-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-06-30-1726-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-06-30-1726-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-06-30-1727-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-06-30-1727-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-06-30-1927-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-06-30-1927-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-06-30-1928-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-06-30-1928-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-06-30-2229-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-06-30-2229-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-06-30-2329-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-06-30-2329-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-01-0031-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-01-0031-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-01-0132-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-01-0132-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-01-0232-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-01-0232-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-01-0333-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-01-0333-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-01-0334-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-01-0334-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-01-0433-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-01-0433-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-01-0434-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-01-0434-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-01-0533-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-01-0533-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-01-0537-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-01-0537-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-01-0540-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-01-0540-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-01-0553-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-01-0553-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-01-0557-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-01-0557-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-01-0559-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-01-0559-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-01-0600-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-01-0600-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-01-0654-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-01-0654-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-01-0754-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-01-0754-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-01-0757-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-01-0757-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-01-0855-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-01-0855-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-01-0857-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-01-0857-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-01-0901-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-01-0901-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-01-0955-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-01-0955-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-01-0958-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-01-0958-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-01-1056-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-01-1056-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-01-1059-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-01-1059-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-01-1257-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-01-1257-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-01-1258-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-01-1258-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-01-1357-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-01-1357-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-01-1358-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-01-1358-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-01-1558-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-01-1558-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-01-1601-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-01-1601-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-01-1603-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-01-1603-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-01-1700-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-01-1700-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-01-1702-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-01-1702-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-01-1705-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-01-1705-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-01-1801-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-01-1801-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-01-1803-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-01-1803-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-01-1804-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-01-1804-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-01-1902-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-01-1902-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-01-1906-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-01-1906-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-01-2003-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-01-2003-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-01-2006-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-01-2006-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-01-2008-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-01-2008-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-01-2103-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-01-2103-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-01-2108-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-01-2108-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-01-2205-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-01-2205-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-01-2208-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-01-2208-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-01-2211-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-01-2211-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-01-2244-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-01-2244-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-01-2249-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-01-2249-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-01-2304-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-01-2304-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-01-2305-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-01-2305-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-01-2308-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-01-2308-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-02-0005-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-02-0005-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-02-0007-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-02-0007-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-02-0013-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-02-0013-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-02-0106-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-02-0106-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-02-0113-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-02-0113-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-02-0121-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-02-0121-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-02-0154-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-02-0154-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-02-0156-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-02-0156-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-02-0157-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-02-0157-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-02-0158-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-02-0158-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-02-0218-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-02-0218-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-02-0504-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-02-0504-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-02-0508-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-02-0508-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-02-0509-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-02-0509-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-02-0601-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-02-0601-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-02-0607-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-02-0607-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-02-0610-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-02-0610-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-02-0701-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-02-0701-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-02-0702-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-02-0702-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-02-0703-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-02-0703-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-02-0704-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-02-0704-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-02-0802-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-02-0802-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-02-0805-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-02-0805-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-02-0807-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-02-0807-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-02-1001-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-02-1001-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-02-1003-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-02-1003-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-02-1004-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-02-1004-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-02-1005-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-02-1005-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-02-1102-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-02-1102-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-02-1104-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-02-1104-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-02-1108-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-02-1108-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-02-1201-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-02-1201-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-02-1302-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-02-1302-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-02-1402-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-02-1402-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-02-1404-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-02-1404-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-02-1407-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-02-1407-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-02-1602-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-02-1602-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-02-1604-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-02-1604-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-02-1607-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-02-1607-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-02-1608-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-02-1608-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-02-1701-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-02-1701-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-02-1702-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-02-1702-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-02-1704-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-02-1704-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-02-1801-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-02-1801-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-02-1804-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-02-1804-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-02-1901-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-02-1901-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-02-1905-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-02-1905-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-02-2002-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-02-2002-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-02-2003-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-02-2003-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-02-2004-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-02-2004-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-02-2007-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-02-2007-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-02-2008-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-02-2008-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-02-2203-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-02-2203-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-02-2206-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-02-2206-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-02-2208-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-02-2208-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-02-2302-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-02-2302-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-02-2304-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-02-2304-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-02-2307-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-02-2307-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-02-2309-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-02-2309-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-03-0001-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-03-0001-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-03-0004-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-03-0004-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-03-0102-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-03-0102-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-03-0105-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-03-0105-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-03-0202-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-03-0202-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-03-0206-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-03-0206-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-03-0238-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-03-0238-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-03-0302-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-03-0302-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-03-0304-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-03-0304-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-03-0305-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-03-0305-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-03-0358-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-03-0358-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-03-0407-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-03-0407-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-03-0425-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-03-0425-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-03-0426-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-03-0426-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-04-0410-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-04-0410-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-04-0412-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-04-0412-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-04-1928-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-04-1928-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-05-0408-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-05-0408-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-05-0414-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-05-0414-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-07-0408-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-07-0408-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-07-0423-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-07-0423-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-08-0410-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-08-0410-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-08-0412-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-08-0412-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-08-0414-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-08-0414-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-08-0419-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-08-0419-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-09-0409-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-09-0409-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-09-0412-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-09-0412-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-10-0410-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-10-0410-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-10-0414-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-10-0414-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-11-0409-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-11-0409-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-11-0412-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-11-0412-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-12-0408-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-12-0408-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-12-0411-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-12-0411-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-14-0409-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-14-0409-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-14-0411-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-14-0411-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-15-0409-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-15-0409-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-15-0412-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-15-0412-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-17-0409-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-17-0409-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-17-0412-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-17-0412-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-17-0413-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-17-0413-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-18-0409-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-18-0409-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-18-0411-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-18-0411-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-18-0414-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-18-0414-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-22-0409-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-22-0409-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-22-0413-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-22-0413-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-22-0417-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-22-0417-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-22-0419-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-22-0419-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-23-0408-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-23-0408-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-23-0413-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-23-0413-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-24-0409-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-24-0409-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-24-0412-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-24-0412-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-24-0413-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-24-0413-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-25-0409-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-25-0409-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-25-0411-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-25-0411-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-25-0412-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-25-0412-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-26-0408-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-26-0408-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-26-0410-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-26-0410-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-27-0409-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-27-0409-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-27-0410-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-27-0410-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-27-0412-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-27-0412-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-28-0409-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-28-0409-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-28-0410-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-28-0410-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-29-0408-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-29-0408-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-29-0409-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-29-0409-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-29-0411-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-29-0411-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-30-0408-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-30-0408-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-30-0411-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-30-0411-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-31-0409-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-31-0409-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-07-31-0411-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-07-31-0411-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-08-01-0408-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-08-01-0408-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-08-01-0412-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-08-01-0412-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-08-02-0409-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-08-02-0409-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-08-02-0412-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-08-02-0412-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-08-02-0416-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-08-02-0416-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-08-03-0408-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-08-03-0408-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-08-03-0410-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-08-03-0410-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-08-03-0412-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-08-03-0412-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-08-04-0408-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-08-04-0408-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-08-04-0411-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-08-04-0411-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-08-04-0412-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-08-04-0412-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-08-06-0409-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-08-06-0409-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-08-07-0409-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-08-07-0409-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-08-07-0414-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-08-07-0414-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-08-08-0410-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-08-08-0410-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-08-08-0413-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-08-08-0413-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-08-08-0417-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-08-08-0417-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-08-09-0409-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-08-09-0409-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-08-09-0413-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-08-09-0413-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-08-09-0414-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-08-09-0414-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-08-10-0409-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-08-10-0409-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-08-10-0413-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-08-10-0413-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-08-11-0408-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-08-11-0408-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-08-11-0410-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-08-11-0410-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-08-11-0414-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-08-11-0414-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-08-12-0408-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-08-12-0408-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-08-12-0411-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-08-12-0411-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-08-12-0412-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-08-12-0412-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-08-13-0408-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-08-13-0408-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-08-13-0409-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-08-13-0409-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-08-14-0408-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-08-14-0408-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-08-14-0409-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-08-14-0409-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-08-15-0408-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-08-15-0408-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-08-16-0409-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-08-16-0409-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-08-16-0410-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-08-16-0410-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-08-17-0408-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-08-17-0408-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-08-17-0409-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-08-17-0409-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-08-17-0411-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-08-17-0411-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-08-18-0408-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-08-18-0408-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-08-18-0409-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-08-18-0409-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-08-18-0410-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-08-18-0410-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-08-19-0408-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-08-19-0408-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-08-21-0408-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-08-21-0408-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-08-21-0410-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-08-21-0410-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-08-22-0408-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-08-22-0408-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-08-22-0410-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-08-22-0410-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-08-23-0408-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-08-23-0408-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-08-23-0410-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-08-23-0410-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-08-24-0407-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-08-24-0407-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-08-24-0408-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-08-24-0408-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-08-25-0407-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-08-25-0407-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-08-25-0410-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-08-25-0410-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-08-26-0407-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-08-26-0407-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-08-26-0408-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-08-26-0408-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-08-26-0409-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-08-26-0409-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-08-27-0408-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-08-27-0408-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-08-27-0409-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-08-27-0409-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-08-28-0409-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-08-28-0409-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-08-28-0412-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-08-28-0412-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-08-29-0409-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-08-29-0409-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-08-29-0410-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-08-29-0410-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-08-30-0409-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-08-30-0409-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-08-30-0411-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-08-30-0411-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-08-31-0408-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-08-31-0408-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-08-31-0410-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-08-31-0410-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-09-01-0408-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-09-01-0408-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/hourly-reviews/2026-09-01-0409-quant-review.md",
+      "published": "records/reports/service/hourly-reviews/2026-09-01-0409-quant-review.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "reports/service/ip-stats/unavailable-request-ips.md",
+      "published": "records/reports/service/ip-stats/unavailable-request-ips.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "automation-run-notes-1",
+      "published": "records/automation/run-notes-1.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "automation-run-notes-2",
+      "published": "records/automation/run-notes-2.md",
+      "treatment": "sanitized-record"
+    },
+    {
+      "source": "data/cache/binance-usdm/fapi_v1_exchangeInfo.json",
+      "treatment": "private-payload-withheld"
+    },
+    {
+      "source": "data/cache/binance-usdm/fapi_v1_premiumIndex.json",
+      "treatment": "private-payload-withheld"
+    },
+    {
+      "source": "data/cache/binance-usdm/fapi_v1_ticker_24hr.json",
+      "treatment": "private-payload-withheld"
+    },
+    {
+      "source": "data/processed/binance-usdm-24h/income.csv",
+      "treatment": "private-payload-withheld",
+      "lines": 184
+    },
+    {
+      "source": "data/processed/binance-usdm-24h/metadata.json",
+      "treatment": "private-payload-withheld"
+    },
+    {
+      "source": "data/processed/binance-usdm-24h/symbol_summary.csv",
+      "treatment": "private-payload-withheld",
+      "lines": 14
+    },
+    {
+      "source": "data/processed/binance-usdm-24h/trades.csv",
+      "treatment": "private-payload-withheld",
+      "lines": 115
+    },
+    {
+      "source": "data/processed/binance-usdm-30d/income.csv",
+      "treatment": "private-payload-withheld",
+      "lines": 9070
+    },
+    {
+      "source": "data/processed/binance-usdm-30d/metadata.json",
+      "treatment": "private-payload-withheld"
+    },
+    {
+      "source": "data/processed/binance-usdm-30d/order_reviews.csv",
+      "treatment": "private-payload-withheld",
+      "lines": 411
+    },
+    {
+      "source": "data/processed/binance-usdm-30d/symbol_summary.csv",
+      "treatment": "private-payload-withheld",
+      "lines": 54
+    },
+    {
+      "source": "data/processed/binance-usdm-30d/trade_review_metadata.json",
+      "treatment": "private-payload-withheld"
+    },
+    {
+      "source": "data/processed/binance-usdm-30d/trade_reviews.csv",
+      "treatment": "private-payload-withheld",
+      "lines": 6072
+    },
+    {
+      "source": "data/processed/binance-usdm-30d/trades.csv",
+      "treatment": "private-payload-withheld",
+      "lines": 6072
+    },
+    {
+      "source": "data/processed/binance-usdm-30d/volume_price_profile.csv",
+      "treatment": "private-payload-withheld",
+      "lines": 2176
+    },
+    {
+      "source": "data/processed/binance-usdm-30d/volume_price_profile.json",
+      "treatment": "private-payload-withheld"
+    },
+    {
+      "source": "data/processed/binance-usdm-current/income.csv",
+      "treatment": "private-payload-withheld",
+      "lines": 1993
+    },
+    {
+      "source": "data/processed/binance-usdm-current/metadata.json",
+      "treatment": "private-payload-withheld"
+    },
+    {
+      "source": "data/processed/binance-usdm-current/order_reviews.csv",
+      "treatment": "private-payload-withheld",
+      "lines": 221
+    },
+    {
+      "source": "data/processed/binance-usdm-current/symbol_summary.csv",
+      "treatment": "private-payload-withheld",
+      "lines": 51
+    },
+    {
+      "source": "data/processed/binance-usdm-current/trade_review_metadata.json",
+      "treatment": "private-payload-withheld"
+    },
+    {
+      "source": "data/processed/binance-usdm-current/trade_reviews.csv",
+      "treatment": "private-payload-withheld",
+      "lines": 1267
+    },
+    {
+      "source": "data/processed/binance-usdm-current/trades.csv",
+      "treatment": "private-payload-withheld",
+      "lines": 1267
+    },
+    {
+      "source": "data/processed/live-execution/executions.jsonl",
+      "treatment": "private-payload-withheld",
+      "records": 1978,
+      "malformed_records": 0,
+      "event_counts": {
+        "unspecified": 1587,
+        "critical_manual_intervention_required": 1,
+        "protection_failed_flatten_attempted": 1,
+        "protected": 208,
+        "execution_error": 13,
+        "entry_rejected_no_position_opened": 137,
+        "operation_journal_unavailable": 1,
+        "confirmation_timeout": 21,
+        "cancelled_by_user": 9
+      }
+    },
+    {
+      "source": "data/processed/operation-journal/2026-07-02-operations.jsonl",
+      "treatment": "private-payload-withheld",
+      "records": 586,
+      "malformed_records": 0,
+      "event_counts": {
+        "unspecified": 586
+      }
+    },
+    {
+      "source": "data/processed/operation-journal/2026-07-03-operations.jsonl",
+      "treatment": "private-payload-withheld",
+      "records": 1219,
+      "malformed_records": 0,
+      "event_counts": {
+        "unspecified": 1219
+      }
+    },
+    {
+      "source": "data/processed/operation-journal/2026-07-04-operations.jsonl",
+      "treatment": "private-payload-withheld",
+      "records": 1042,
+      "malformed_records": 0,
+      "event_counts": {
+        "unspecified": 1042
+      }
+    },
+    {
+      "source": "data/processed/operation-journal/2026-07-05-operations.jsonl",
+      "treatment": "private-payload-withheld",
+      "records": 484,
+      "malformed_records": 0,
+      "event_counts": {
+        "unspecified": 484
+      }
+    },
+    {
+      "source": "data/processed/operation-journal/2026-07-06-operations.jsonl",
+      "treatment": "private-payload-withheld",
+      "records": 996,
+      "malformed_records": 0,
+      "event_counts": {
+        "unspecified": 996
+      }
+    },
+    {
+      "source": "data/processed/operation-journal/2026-07-07-operations.jsonl",
+      "treatment": "private-payload-withheld",
+      "records": 772,
+      "malformed_records": 0,
+      "event_counts": {
+        "unspecified": 772
+      }
+    },
+    {
+      "source": "data/processed/operation-journal/2026-07-08-operations.jsonl",
+      "treatment": "private-payload-withheld",
+      "records": 640,
+      "malformed_records": 0,
+      "event_counts": {
+        "unspecified": 640
+      }
+    },
+    {
+      "source": "data/processed/operation-journal/2026-07-23-operations.jsonl",
+      "treatment": "private-payload-withheld",
+      "records": 1,
+      "malformed_records": 0,
+      "event_counts": {
+        "unspecified": 1
+      }
+    },
+    {
+      "source": "data/processed/operation-journal/2026-07-25-operations.jsonl",
+      "treatment": "private-payload-withheld",
+      "records": 1,
+      "malformed_records": 0,
+      "event_counts": {
+        "unspecified": 1
+      }
+    },
+    {
+      "source": "data/processed/operation-journal/2026-07-27-operations.jsonl",
+      "treatment": "private-payload-withheld",
+      "records": 1,
+      "malformed_records": 0,
+      "event_counts": {
+        "unspecified": 1
+      }
+    },
+    {
+      "source": "data/processed/operation-journal/2026-07-31-operations.jsonl",
+      "treatment": "private-payload-withheld",
+      "records": 1,
+      "malformed_records": 0,
+      "event_counts": {
+        "unspecified": 1
+      }
+    },
+    {
+      "source": "data/processed/paper-signal-service/events.jsonl",
+      "treatment": "private-payload-withheld",
+      "records": 157112,
+      "malformed_records": 0,
+      "event_counts": {
+        "paper_entry": 2,
+        "live_intent_created": 396,
+        "live_execution_result": 392,
+        "live_entry_skipped": 32231,
+        "protection_adjustment_result": 1585,
+        "protection_adjustment_error": 220,
+        "protection_adjustment_cancelled": 2,
+        "live_position_precheck": 14912,
+        "live_position_market_scan": 2164,
+        "paper_exit": 1,
+        "live_position_precheck_error": 12320,
+        "protection_adjustment_skipped": 63881,
+        "live_position_market_scan_skipped": 19388,
+        "live_position_precheck_backoff": 9424,
+        "live_execution_backoff": 190,
+        "market_scan_error": 2,
+        "market_scan_backoff": 2
+      }
+    },
+    {
+      "source": "data/processed/paper-signal-service/intents.jsonl",
+      "treatment": "private-payload-withheld",
+      "records": 399,
+      "malformed_records": 0,
+      "event_counts": {
+        "unspecified": 399
+      }
+    },
+    {
+      "source": "data/processed/paper-signal-service/scan_audit.jsonl",
+      "treatment": "private-payload-withheld",
+      "records": 2429,
+      "malformed_records": 0,
+      "event_counts": {
+        "unspecified": 2429
+      }
+    },
+    {
+      "source": "data/processed/paper-signal-service/state.json",
+      "treatment": "private-payload-withheld"
+    },
+    {
+      "source": "reports/screeners/2026-06-30-0152-binance-usdm-15m-trend.csv",
+      "treatment": "private-payload-withheld",
+      "lines": 13
+    },
+    {
+      "source": "reports/screeners/2026-06-30-0156-binance-usdm-15m-trend.csv",
+      "treatment": "private-payload-withheld",
+      "lines": 80
+    },
+    {
+      "source": "reports/screeners/2026-06-30-0159-binance-usdm-15m-trend.csv",
+      "treatment": "private-payload-withheld",
+      "lines": 41
+    },
+    {
+      "source": "reports/screeners/2026-06-30-0253-binance-usdm-15m-trend.csv",
+      "treatment": "private-payload-withheld",
+      "lines": 13
+    },
+    {
+      "source": "reports/screeners/2026-06-30-0254-binance-usdm-15m-trend.csv",
+      "treatment": "private-payload-withheld",
+      "lines": 81
+    },
+    {
+      "source": "reports/screeners/2026-06-30-0304-binance-usdm-15m-trend.csv",
+      "treatment": "private-payload-withheld",
+      "lines": 81
+    },
+    {
+      "source": "reports/screeners/2026-06-30-0317-binance-usdm-15m-trend.csv",
+      "treatment": "private-payload-withheld",
+      "lines": 11
+    },
+    {
+      "source": "reports/screeners/2026-06-30-0318-binance-usdm-15m-trend.csv",
+      "treatment": "private-payload-withheld",
+      "lines": 81
+    },
+    {
+      "source": "reports/screeners/2026-07-03-0238-binance-usdm-15m-trend.csv",
+      "treatment": "private-payload-withheld",
+      "lines": 21
+    },
+    {
+      "source": "reports/screeners/2026-07-03-0357-binance-usdm-15m-trend.csv",
+      "treatment": "private-payload-withheld",
+      "lines": 11
+    },
+    {
+      "source": "reports/screeners/2026-07-03-0358-binance-usdm-15m-trend.csv",
+      "treatment": "private-payload-withheld",
+      "lines": 11
+    },
+    {
+      "source": "reports/screeners/2026-07-03-0414-binance-usdm-15m-trend.csv",
+      "treatment": "private-payload-withheld",
+      "lines": 11
+    },
+    {
+      "source": "reports/screeners/2026-07-04-1925-binance-usdm-15m-trend.csv",
+      "treatment": "private-payload-withheld",
+      "lines": 81
+    },
+    {
+      "source": "reports/service/logs/paper-signal-service-confirm-live-20260701-055746.log",
+      "treatment": "private-payload-withheld",
+      "lines": 0
+    },
+    {
+      "source": "reports/service/logs/paper-signal-service-confirm-live-20260701-055856.log",
+      "treatment": "private-payload-withheld",
+      "lines": 4
+    },
+    {
+      "source": "reports/service/logs/paper-signal-service-confirm-live-20260701-060027.log",
+      "treatment": "private-payload-withheld",
+      "lines": 350
+    },
+    {
+      "source": "reports/service/logs/paper_signal_service_confirm_live_20260701_065724.log",
+      "treatment": "private-payload-withheld",
+      "lines": 0
+    },
+    {
+      "source": "reports/service/logs/paper_signal_service_confirm_live_20260701_065809_setsid.log",
+      "treatment": "private-payload-withheld",
+      "lines": 1
+    },
+    {
+      "source": "reports/service/logs/paper_signal_service_confirm_live_20260701_065833_nohup.log",
+      "treatment": "private-payload-withheld",
+      "lines": 0
+    },
+    {
+      "source": "reports/service/logs/paper_signal_service_confirm_live_20260701_0659_launchctl.log",
+      "treatment": "private-payload-withheld",
+      "lines": 4
+    },
+    {
+      "source": "reports/service/logs/paper_signal_service_confirm_live_20260701_0701_screen.log",
+      "treatment": "private-payload-withheld",
+      "lines": 304
+    },
+    {
+      "source": "reports/service/logs/paper_signal_service_confirm_live_20260701_075742_screen.log",
+      "treatment": "private-payload-withheld",
+      "lines": 446
+    },
+    {
+      "source": "reports/service/logs/paper_signal_service_confirm_live_20260701_090025_screen.log",
+      "treatment": "private-payload-withheld",
+      "lines": 520
+    },
+    {
+      "source": "reports/service/logs/paper_signal_service_confirm_live_20260701_095927_screen.log",
+      "treatment": "private-payload-withheld",
+      "lines": 284
+    },
+    {
+      "source": "reports/service/logs/paper_signal_service_confirm_live_20260701_105929_screen.log",
+      "treatment": "private-payload-withheld",
+      "lines": 706
+    },
+    {
+      "source": "reports/service/logs/paper_signal_service_confirm_live_20260701_125939_screen.log",
+      "treatment": "private-payload-withheld",
+      "lines": 240
+    },
+    {
+      "source": "reports/service/logs/paper_signal_service_confirm_live_20260701_135932_screen.log",
+      "treatment": "private-payload-withheld",
+      "lines": 362
+    },
+    {
+      "source": "reports/service/logs/paper_signal_service_confirm_live_20260701_160216_screen.log",
+      "treatment": "private-payload-withheld",
+      "lines": 404
+    },
+    {
+      "source": "reports/service/logs/paper_signal_service_confirm_live_20260701_170353_screen.log",
+      "treatment": "private-payload-withheld",
+      "lines": 320
+    },
+    {
+      "source": "reports/service/logs/paper_signal_service_confirm_live_20260701_180452_screen.log",
+      "treatment": "private-payload-withheld",
+      "lines": 324
+    },
+    {
+      "source": "reports/service/logs/paper_signal_service_confirm_live_20260701_190514_screen.log",
+      "treatment": "private-payload-withheld",
+      "lines": 411
+    },
+    {
+      "source": "reports/service/logs/paper_signal_service_confirm_live_20260701_200716_screen.log",
+      "treatment": "private-payload-withheld",
+      "lines": 306
+    },
+    {
+      "source": "reports/service/logs/paper_signal_service_confirm_live_20260701_210650_screen.log",
+      "treatment": "private-payload-withheld",
+      "lines": 390
+    },
+    {
+      "source": "reports/service/logs/paper_signal_service_confirm_live_20260701_220330_screen.log",
+      "treatment": "private-payload-withheld",
+      "lines": 7
+    },
+    {
+      "source": "reports/service/logs/paper_signal_service_confirm_live_20260701_220837_screen.log",
+      "treatment": "private-payload-withheld",
+      "lines": 8
+    },
+    {
+      "source": "reports/service/logs/paper_signal_service_confirm_live_20260701_221056_screen.log",
+      "treatment": "private-payload-withheld",
+      "lines": 277
+    },
+    {
+      "source": "reports/service/logs/paper_signal_service_confirm_live_20260701_224940_screen.log",
+      "treatment": "private-payload-withheld",
+      "lines": 19
+    },
+    {
+      "source": "reports/service/logs/paper_signal_service_confirm_live_20260701_225535_screen.log",
+      "treatment": "private-payload-withheld",
+      "lines": 27
+    },
+    {
+      "source": "reports/service/logs/paper_signal_service_confirm_live_20260701_230258_screen.log",
+      "treatment": "private-payload-withheld",
+      "lines": 197
+    },
+    {
+      "source": "reports/service/logs/paper_signal_service_confirm_live_20260701_230918_screen.log",
+      "treatment": "private-payload-withheld",
+      "lines": 164
+    },
+    {
+      "source": "reports/service/logs/paper_signal_service_confirm_live_20260701_231456_screen.log",
+      "treatment": "private-payload-withheld",
+      "lines": 0
+    },
+    {
+      "source": "reports/service/logs/paper_signal_service_confirm_live_20260701_231506_screen.log",
+      "treatment": "private-payload-withheld",
+      "lines": 2
+    },
+    {
+      "source": "reports/service/logs/paper_signal_service_confirm_live_20260701_231636_nohup.log",
+      "treatment": "private-payload-withheld",
+      "lines": 0
+    },
+    {
+      "source": "reports/service/logs/paper_signal_service_confirm_live_20260701_231725_screen.log",
+      "treatment": "private-payload-withheld",
+      "lines": 10
+    },
+    {
+      "source": "reports/service/logs/paper_signal_service_confirm_live_20260701_232520_screen.log",
+      "treatment": "private-payload-withheld",
+      "lines": 500
+    },
+    {
+      "source": "reports/service/logs/paper_signal_service_confirm_live_20260702.log",
+      "treatment": "private-payload-withheld",
+      "lines": 12307
+    },
+    {
+      "source": "reports/service/logs/paper_signal_service_confirm_live_20260702_000759_nohup.log",
+      "treatment": "private-payload-withheld",
+      "lines": 0
+    },
+    {
+      "source": "reports/service/logs/paper_signal_service_confirm_live_20260702_000914_screen.log",
+      "treatment": "private-payload-withheld",
+      "lines": 6
+    },
+    {
+      "source": "reports/service/logs/paper_signal_service_confirm_live_20260702_001131_screen.log",
+      "treatment": "private-payload-withheld",
+      "lines": 520
+    },
+    {
+      "source": "reports/service/logs/paper_signal_service_confirm_live_20260702_011140_screen.log",
+      "treatment": "private-payload-withheld",
+      "lines": 15
+    },
+    {
+      "source": "reports/service/logs/paper_signal_service_confirm_live_20260702_011810_screen.log",
+      "treatment": "private-payload-withheld",
+      "lines": 362
+    },
+    {
+      "source": "reports/service/logs/paper_signal_service_confirm_live_20260702_050737_screen.log",
+      "treatment": "private-payload-withheld",
+      "lines": 81
+    },
+    {
+      "source": "reports/service/logs/paper_signal_service_confirm_live_20260702_060519_screen.log",
+      "treatment": "private-payload-withheld",
+      "lines": 80
+    },
+    {
+      "source": "reports/service/logs/paper_signal_service_confirm_live_20260702_060653_screen.log",
+      "treatment": "private-payload-withheld",
+      "lines": 593
+    },
+    {
+      "source": "reports/service/logs/paper_signal_service_confirm_live_20260702_080654_screen.log",
+      "treatment": "private-payload-withheld",
+      "lines": 1007
+    },
+    {
+      "source": "reports/service/logs/paper_signal_service_confirm_live_20260702_120713.log",
+      "treatment": "private-payload-withheld",
+      "lines": 0
+    },
+    {
+      "source": "reports/service/logs/paper_signal_service_confirm_live_20260702_120754.log",
+      "treatment": "private-payload-withheld",
+      "lines": 517
+    },
+    {
+      "source": "reports/service/logs/paper_signal_service_confirm_live_20260702_124018.log",
+      "treatment": "private-payload-withheld",
+      "lines": 1231
+    },
+    {
+      "source": "reports/service/logs/paper_signal_service_confirm_live_20260702_140508_screen.log",
+      "treatment": "private-payload-withheld",
+      "lines": 1378
+    },
+    {
+      "source": "reports/service/logs/paper_signal_service_confirm_live_20260702_200642.log",
+      "treatment": "private-payload-withheld",
+      "lines": 436
+    },
+    {
+      "source": "reports/service/logs/paper_signal_service_confirm_live_20260702_220557.log",
+      "treatment": "private-payload-withheld",
+      "lines": 151
+    },
+    {
+      "source": "reports/service/logs/paper_signal_service_confirm_live_20260703.log",
+      "treatment": "private-payload-withheld",
+      "lines": 31444
+    },
+    {
+      "source": "reports/service/logs/paper_signal_service_confirm_live_20260704_041149.log",
+      "treatment": "private-payload-withheld",
+      "lines": 19462
+    },
+    {
+      "source": "reports/service/logs/paper_signal_service_confirm_live_20260704_192709.log",
+      "treatment": "private-payload-withheld",
+      "lines": 17252
+    },
+    {
+      "source": "reports/service/logs/paper_signal_service_confirm_live_20260705_041313.log",
+      "treatment": "private-payload-withheld",
+      "lines": 69969
+    },
+    {
+      "source": "reports/service/logs/paper_signal_service_confirm_live_20260707.log",
+      "treatment": "private-payload-withheld",
+      "lines": 6467
+    },
+    {
+      "source": "reports/service/logs/paper_signal_service_confirm_live_20260708.log",
+      "treatment": "private-payload-withheld",
+      "lines": 6939
+    },
+    {
+      "source": "reports/service/logs/paper_signal_service_confirm_live_20260709.log",
+      "treatment": "private-payload-withheld",
+      "lines": 1745
+    },
+    {
+      "source": "reports/service/logs/paper_signal_service_confirm_live_20260710.log",
+      "treatment": "private-payload-withheld",
+      "lines": 1928
+    },
+    {
+      "source": "reports/service/logs/paper_signal_service_confirm_live_20260711.log",
+      "treatment": "private-payload-withheld",
+      "lines": 1966
+    },
+    {
+      "source": "reports/service/logs/paper_signal_service_confirm_live_20260712.log",
+      "treatment": "private-payload-withheld",
+      "lines": 1284
+    },
+    {
+      "source": "reports/service/logs/paper_signal_service_confirm_live_20260714.log",
+      "treatment": "private-payload-withheld",
+      "lines": 1891
+    },
+    {
+      "source": "reports/service/logs/paper_signal_service_confirm_live_20260715.log",
+      "treatment": "private-payload-withheld",
+      "lines": 246
+    },
+    {
+      "source": "reports/service/logs/paper_signal_service_confirm_live_20260717.log",
+      "treatment": "private-payload-withheld",
+      "lines": 1896
+    },
+    {
+      "source": "reports/service/logs/paper_signal_service_confirm_live_20260718.log",
+      "treatment": "private-payload-withheld",
+      "lines": 1251
+    },
+    {
+      "source": "reports/service/logs/paper_signal_service_confirm_live_20260722.log",
+      "treatment": "private-payload-withheld",
+      "lines": 2303
+    },
+    {
+      "source": "reports/service/logs/paper_signal_service_confirm_live_20260723.log",
+      "treatment": "private-payload-withheld",
+      "lines": 2370
+    },
+    {
+      "source": "reports/service/logs/paper_signal_service_confirm_live_20260724.log",
+      "treatment": "private-payload-withheld",
+      "lines": 2004
+    },
+    {
+      "source": "reports/service/logs/paper_signal_service_confirm_live_20260725.log",
+      "treatment": "private-payload-withheld",
+      "lines": 2685
+    },
+    {
+      "source": "reports/service/logs/paper_signal_service_confirm_live_20260726.log",
+      "treatment": "private-payload-withheld",
+      "lines": 2535
+    },
+    {
+      "source": "reports/service/logs/paper_signal_service_confirm_live_20260727.log",
+      "treatment": "private-payload-withheld",
+      "lines": 1593
+    },
+    {
+      "source": "reports/service/logs/paper_signal_service_confirm_live_20260728.log",
+      "treatment": "private-payload-withheld",
+      "lines": 1993
+    },
+    {
+      "source": "reports/service/logs/paper_signal_service_confirm_live_20260729.log",
+      "treatment": "private-payload-withheld",
+      "lines": 2163
+    },
+    {
+      "source": "reports/service/logs/paper_signal_service_confirm_live_20260730.log",
+      "treatment": "private-payload-withheld",
+      "lines": 1881
+    },
+    {
+      "source": "reports/service/logs/paper_signal_service_confirm_live_20260731.log",
+      "treatment": "private-payload-withheld",
+      "lines": 2212
+    },
+    {
+      "source": "reports/service/logs/paper_signal_service_confirm_live_20260801.log",
+      "treatment": "private-payload-withheld",
+      "lines": 1889
+    },
+    {
+      "source": "reports/service/logs/paper_signal_service_confirm_live_20260802.log",
+      "treatment": "private-payload-withheld",
+      "lines": 2528
+    },
+    {
+      "source": "reports/service/logs/paper_signal_service_confirm_live_20260803.log",
+      "treatment": "private-payload-withheld",
+      "lines": 2492
+    },
+    {
+      "source": "reports/service/logs/paper_signal_service_confirm_live_20260804.log",
+      "treatment": "private-payload-withheld",
+      "lines": 7288
+    },
+    {
+      "source": "reports/service/logs/paper_signal_service_confirm_live_20260807.log",
+      "treatment": "private-payload-withheld",
+      "lines": 2505
+    },
+    {
+      "source": "reports/service/logs/paper_signal_service_confirm_live_20260808.log",
+      "treatment": "private-payload-withheld",
+      "lines": 2492
+    },
+    {
+      "source": "reports/service/logs/paper_signal_service_confirm_live_20260809.log",
+      "treatment": "private-payload-withheld",
+      "lines": 2494
+    },
+    {
+      "source": "reports/service/logs/paper_signal_service_confirm_live_20260810.log",
+      "treatment": "private-payload-withheld",
+      "lines": 2430
+    },
+    {
+      "source": "reports/service/logs/paper_signal_service_confirm_live_20260811.log",
+      "treatment": "private-payload-withheld",
+      "lines": 2469
+    },
+    {
+      "source": "reports/service/logs/paper_signal_service_confirm_live_20260812.log",
+      "treatment": "private-payload-withheld",
+      "lines": 516
+    },
+    {
+      "source": "reports/service/logs/paper_signal_service_confirm_live_20260813.log",
+      "treatment": "private-payload-withheld",
+      "lines": 2413
+    },
+    {
+      "source": "reports/service/logs/paper_signal_service_confirm_live_20260814.log",
+      "treatment": "private-payload-withheld",
+      "lines": 2370
+    },
+    {
+      "source": "reports/service/logs/paper_signal_service_confirm_live_20260815.log",
+      "treatment": "private-payload-withheld",
+      "lines": 2595
+    },
+    {
+      "source": "reports/service/logs/paper_signal_service_confirm_live_20260816.log",
+      "treatment": "private-payload-withheld",
+      "lines": 2801
+    },
+    {
+      "source": "reports/service/logs/paper_signal_service_confirm_live_20260817.log",
+      "treatment": "private-payload-withheld",
+      "lines": 2670
+    },
+    {
+      "source": "reports/service/logs/paper_signal_service_confirm_live_20260818.log",
+      "treatment": "private-payload-withheld",
+      "lines": 2639
+    },
+    {
+      "source": "reports/service/logs/paper_signal_service_confirm_live_20260819.log",
+      "treatment": "private-payload-withheld",
+      "lines": 5450
+    },
+    {
+      "source": "reports/service/logs/paper_signal_service_confirm_live_20260821.log",
+      "treatment": "private-payload-withheld",
+      "lines": 2637
+    },
+    {
+      "source": "reports/service/logs/paper_signal_service_confirm_live_20260822.log",
+      "treatment": "private-payload-withheld",
+      "lines": 2592
+    },
+    {
+      "source": "reports/service/logs/paper_signal_service_confirm_live_20260823.log",
+      "treatment": "private-payload-withheld",
+      "lines": 2588
+    },
+    {
+      "source": "reports/service/logs/paper_signal_service_confirm_live_20260824.log",
+      "treatment": "private-payload-withheld",
+      "lines": 2529
+    },
+    {
+      "source": "reports/service/logs/paper_signal_service_confirm_live_20260825.log",
+      "treatment": "private-payload-withheld",
+      "lines": 2687
+    },
+    {
+      "source": "reports/service/logs/paper_signal_service_confirm_live_20260826.log",
+      "treatment": "private-payload-withheld",
+      "lines": 535
+    },
+    {
+      "source": "reports/service/logs/paper_signal_service_confirm_live_20260827.log",
+      "treatment": "private-payload-withheld",
+      "lines": 2308
+    },
+    {
+      "source": "reports/service/logs/paper_signal_service_confirm_live_20260828.log",
+      "treatment": "private-payload-withheld",
+      "lines": 2757
+    },
+    {
+      "source": "reports/service/logs/paper_signal_service_confirm_live_20260829.log",
+      "treatment": "private-payload-withheld",
+      "lines": 2794
+    },
+    {
+      "source": "reports/service/logs/paper_signal_service_confirm_live_20260830.log",
+      "treatment": "private-payload-withheld",
+      "lines": 2787
+    },
+    {
+      "source": "reports/service/logs/paper_signal_service_confirm_live_20260831.log",
+      "treatment": "private-payload-withheld",
+      "lines": 2576
+    },
+    {
+      "source": "reports/service/logs/paper_signal_service_confirm_live_20260901.log",
+      "treatment": "private-payload-withheld",
+      "lines": 24313
+    }
+  ]
+}

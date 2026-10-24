@@ -1,0 +1,22 @@
+name: Offline Validation
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -m pip install -r requirements-dev.lock
+      - run: python -m pytest -q
+      - run: python scripts/check_publication.py
+      - run: python -m compileall -q quant scripts tests
+      - run: python -m pip_audit -r requirements-dev.lock

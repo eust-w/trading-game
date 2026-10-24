@@ -1,0 +1,105 @@
+{
+  "service": {
+    "scan_interval_seconds": 60,
+    "boundary_scan_interval_seconds": 60,
+    "boundary_fast_window_seconds": 90,
+    "confirm_live_min_sleep_seconds": 30,
+    "confirm_live_active_position_min_sleep_seconds": 30,
+    "confirm_live_backoff_min_sleep_seconds": 30,
+    "live_precheck_heartbeat_seconds": 300,
+    "live_entry_skip_heartbeat_seconds": 300,
+    "live_precheck_auth_backoff_seconds": 180,
+    "binance_rate_limit_ban_grace_seconds": 30,
+    "live_execution_backoff_seconds": 900,
+    "live_margin_insufficient_backoff_seconds": 3600,
+    "write_report": false,
+    "scan_audit_path": "data/processed/paper-signal-service/scan_audit.jsonl"
+  },
+  "scanner": {
+    "max_symbols": 40,
+    "min_quote_volume": 30000000,
+    "klines_limit": 120,
+    "concurrency": 6,
+    "history_path": "data/processed/binance-usdm-current/symbol_summary.csv",
+    "volume_price_profile_path": "data/processed/binance-usdm-30d/volume_price_profile.json",
+    "order_book_enabled": true,
+    "order_book_levels": 20,
+    "order_book_timeout_seconds": 2.0
+  },
+  "strategy": {
+    "min_score": 80,
+    "allow_review_candidates": false,
+    "block_market_structure_risk_entries": true,
+    "block_loss_history_entries": true,
+    "blocked_history_reasons": [
+      "past_loser",
+      "past_major_loser",
+      "high_freq_loss",
+      "insurance_clear_block"
+    ],
+    "directions": [
+      "LONG",
+      "SHORT"
+    ],
+    "manual_blocklist": []
+  },
+  "risk": {
+    "paper_equity_usdt": 1000,
+    "risk_per_trade_pct": 1.0,
+    "max_notional_pct": 50,
+    "max_live_positions": 1,
+    "live_entry_min_available_balance_usdt": 5,
+    "live_entry_min_notional_usdt": 20,
+    "live_entry_available_balance_buffer_pct": 40,
+    "live_entry_leverage": 1,
+    "exit_model": "adaptive_signal",
+    "stop_atr_multiple": 1.35,
+    "take_profit_r_multiple": 1.25,
+    "min_stop_pct": 0.35,
+    "adaptive_stop_min_pct": 0.55,
+    "adaptive_stop_max_pct": 1.65,
+    "adaptive_take_profit_min_r": 0.8,
+    "adaptive_take_profit_max_r": 1.7,
+    "adaptive_take_profit_min_pct": 0.65,
+    "adaptive_take_profit_tighten_enabled": true,
+    "adaptive_take_profit_tighten_score_below": 95,
+    "adaptive_take_profit_min_net_pct": 0.12,
+    "break_even_activation_pct": 0.35,
+    "profit_lock_enabled": true,
+    "profit_lock_activation_pct": 0.5,
+    "profit_lock_retain_pct": 50,
+    "unsuitable_exit_enabled": true,
+    "unsuitable_exit_opposite_score": 65,
+    "unsuitable_exit_hold_score": 45,
+    "unsuitable_exit_band_pct": 0.18
+  },
+  "protection": {
+    "enabled": true,
+    "min_adjust_pct": 0.08,
+    "min_adjust_ticks": 2,
+    "min_trigger_distance_ticks": 1,
+    "min_existing_order_age_seconds": 300,
+    "concurrency": 3,
+    "execution_concurrency": 3
+  },
+  "operation_journal": {
+    "enabled": true,
+    "required": false,
+    "mongo_uri": "",
+    "mongo_uri_env": "ALPHA_VAULT_MONGODB_URI",
+    "mongo_database": "alpha_vault",
+    "mongo_collection": "operation_audit",
+    "local_daily_path": "data/processed/operation-journal/{date}-operations.jsonl",
+    "server_selection_timeout_ms": 5000
+  },
+  "logging": {
+    "daily_service_log_path": "reports/service/logs/paper_signal_service_confirm_live_{date_compact}.log"
+  },
+  "execution": {
+    "mode": "intent_only",
+    "env_file": ".env",
+    "executions_path": "data/processed/live-execution/executions.jsonl",
+    "terminal_confirm": false,
+    "confirmation_timeout_seconds": 120
+  }
+}

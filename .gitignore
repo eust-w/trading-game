@@ -1,0 +1,28 @@
+# Credentials and local overrides
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+config/*.local.json
+
+# Runtime output must never be staged automatically.
+/data/
+/reports/
+*.log
+*.sqlite*
+
+# Python and editor files
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+*.egg-info/
+dist/
+build/
+.DS_Store
+.idea/
+.vscode/
